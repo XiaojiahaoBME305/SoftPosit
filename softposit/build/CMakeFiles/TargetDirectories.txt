@@ -1,0 +1,3 @@
+/home/xiaojiahao/code/P2lifBME/softposit/build/CMakeFiles/edit_cache.dir
+/home/xiaojiahao/code/P2lifBME/softposit/build/CMakeFiles/rebuild_cache.dir
+/home/xiaojiahao/code/P2lifBME/softposit/build/CMakeFiles/softposit.dir
